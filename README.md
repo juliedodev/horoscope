@@ -3,6 +3,8 @@ This project is to create a horoscope using JavaScript.
 <img src="horoscope.png">
 How It's Made Tech Used:
 
+Site: [https://juliedodev-horoscope.netlify.app]
+
 <ul>
 <li>HTML</li>
 <li>CSS</li>
